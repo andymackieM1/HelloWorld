@@ -2,7 +2,7 @@
     Private Sub HelloWorld_Load(sender As Object, e As EventArgs) Handles Me.Load
 
         With Me
-            .Text = "Goodbye World"
+            .Text = "Hello Again World"
             .cmdHelloWorld.Text = .Text
             .StartPosition = FormStartPosition.CenterScreen
         End With
