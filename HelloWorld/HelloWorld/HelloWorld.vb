@@ -4,6 +4,7 @@
         With Me
             .Text = "Hello World"
             .cmdHelloWorld.Text = .Text
+            .StartPosition = FormStartPosition.CenterScreen
         End With
 
     End Sub
